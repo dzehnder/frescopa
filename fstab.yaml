@@ -1,6 +1,6 @@
 eremountpoints:
   /:
-    url: "https://author-p106302-e1008131.adobeaemcloud.com/bin/franklin.delivery/dzehnder/frescopa/main"
+    url: ""
     type: "markup"
     suffix: ".html"
 folders:
